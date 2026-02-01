@@ -1,0 +1,70 @@
+{
+    "user_info": {
+        "greeting": "Hello, I'm",
+        "name": "Rahul P Raj",
+        "subtitle": "Creative Web & UI Designer"
+    },
+    "about": {
+        "bio": "I craft digital experiences with a focus on minimalism and user engagement. With a background in both design and engineering, I bridge the gap between aesthetics and functionality.",
+        "stats": [
+            {
+                "label": "Years Exp.",
+                "value": "10+"
+            },
+            {
+                "label": "Projects",
+                "value": "50+"
+            }
+        ],
+        "skills": [
+            "Siebel CRM",
+            "Angular",
+            "Spring Boot",
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "jQuery",
+            "React",
+            "Node.js"
+        ]
+    },
+    "resume": [
+        {
+            "date": "2023 - Present",
+            "role": "Senior Frontend Dev",
+            "company": "TechCorp Inc.",
+            "description": "Leading the frontend team, refactoring legacy codebases, and implementing modern design systems."
+        },
+        {
+            "date": "2021 - 2023",
+            "role": "Web Developer",
+            "company": "Creative Studio",
+            "description": "Built responsive websites and interactive landing pages for high-profile clients."
+        },
+        {
+            "date": "2019 - 2021",
+            "role": "Junior Designer",
+            "company": "DesignAgency",
+            "description": "Assisted in UI/UX research and created high-fidelity mockups."
+        }
+    ],
+    "contact": {
+        "email": "hello@alexdev.com",
+        "location": "San Francisco, CA",
+        "social": [
+            {
+                "icon": "fab fa-github",
+                "link": "#"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "link": "#"
+            },
+            {
+                "icon": "fab fa-twitter",
+                "link": "#"
+            }
+        ]
+    },
+    "copyright": "2026 Alex Dev. All rights reserved."
+}
